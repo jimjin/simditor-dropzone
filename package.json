@@ -16,6 +16,7 @@
   "scripts": {
     "test": "npm test"
   },
+  "main": "lib/simditor-dropzone.js",
   "keywords": [
     "Simditor",
     "dnd",
